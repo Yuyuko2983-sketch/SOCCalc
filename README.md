@@ -153,6 +153,5 @@ If you use this software in your research, please acknowledge the authors.
 For questions and support, contact:
 - 3775964975@qq.com
 - hykuuz6@gmail.com
-```
 
 This README provides comprehensive documentation for the SOC Calculator, including theoretical background, installation instructions, usage examples, and output descriptions in a clear, professional format suitable for researchers and computational chemists.
