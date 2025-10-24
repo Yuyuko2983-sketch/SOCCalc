@@ -1,4 +1,4 @@
-```markdown
+
 # SOC Calculator
 
 A specialized quantum chemistry toolkit for calculating molecular spin-orbit coupling (SOC) and phosphorescence properties, built upon the PySCF framework.
