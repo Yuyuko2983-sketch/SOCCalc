@@ -15,8 +15,7 @@ A specialized quantum chemistry toolkit for calculating molecular spin-orbit cou
 
 Based on multireference quantum chemical methods, this framework employs the Breit-Pauli approximation for SOC calculations:
 
-\[H_{\text{SOC}}^{\rightarrow}=\frac{\alpha^{2}}{2}\sum_{l}\sum_{I}\frac{Z_{I}}{| \mathbf{r}_{1}-\mathbf{R}_{1}|^{3}}(\mathbf{r}_{1}-\mathbf{R}_{1})\times\nabla _{i}\cdot\mathbf{s}_{1}\]
-
+<img src="https://latex.codecogs.com/svg.latex?H_{\text{SOC}}^{\rightarrow}=\frac{\alpha^{2}}{2}\sum_{l}\sum_{I}\frac{Z_{I}}{|&space;\mathbf{r}_{1}-\mathbf{R}_{1}|^{3}}(\mathbf{r}_{1}-\mathbf{R}_{1})\times\nabla&space;_{i}\cdot\mathbf{s}_{1}" title="SOC Operator" />
 The tool accurately describes the multireference character of intramolecular charge transfer (ICT) states through the complete active space method and incorporates vibrationally assisted effects for consistent experimental predictions.
 
 ## Installation
