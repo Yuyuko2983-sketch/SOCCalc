@@ -1,0 +1,2 @@
+# SOCCalc
+SOCcalc PySCF based
